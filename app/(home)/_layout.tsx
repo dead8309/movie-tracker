@@ -1,4 +1,3 @@
-import { Heading } from "@/components/ui/heading";
 import { Icon } from "@/components/ui/icon";
 import { Link, Tabs } from "expo-router";
 import { HomeIcon, ListTree, Menu, UserCircle } from "lucide-react-native";
