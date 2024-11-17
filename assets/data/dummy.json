@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "Description": "A mind-bending thriller",
+    "poster_url": "https://picsum.photos/id/237/200/300",
+    "type": "movie"
+  },
+  {
+    "id": 2,
+    "title": "Breaking Bad",
+    "Description": "A high school teacher turned meth producer",
+    "poster_url": "https://picsum.photos/id/238/200/300",
+    "type": "show"
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "Description": "A journey to save humanity beyond the stars",
+    "poster_url": "https://picsum.photos/id/239/200/300",
+    "type": "movie"
+  },
+  {
+    "id": 4,
+    "title": "Stranger Things",
+    "Description": "A group of kids uncover supernatural mysteries",
+    "poster_url": "https://picsum.photos/id/240/200/300",
+    "type": "show"
+  },
+  {
+    "id": 5,
+    "title": "The Dark Knight",
+    "Description": "A battle between Batman and the Joker",
+    "poster_url": "https://picsum.photos/id/241/200/300",
+    "type": "movie"
+  },
+  {
+    "id": 6,
+    "title": "Friends",
+    "Description": "The lives of six friends in New York City",
+    "poster_url": "https://picsum.photos/id/242/200/300",
+    "type": "show"
+  },
+  {
+    "id": 7,
+    "title": "Avatar",
+    "Description": "A marine on an alien planet struggles with his loyalty",
+    "poster_url": "https://picsum.photos/id/243/200/300",
+    "type": "movie"
+  },
+  {
+    "id": 8,
+    "title": "Game of Thrones",
+    "Description": "Noble families vie for control of the Iron Throne",
+    "poster_url": "https://picsum.photos/id/244/200/300",
+    "type": "show"
+  },
+  {
+    "id": 9,
+    "title": "Parasite",
+    "Description": "A dark tale of two families from different worlds",
+    "poster_url": "https://picsum.photos/id/245/200/300",
+    "type": "movie"
+  },
+  {
+    "id": 10,
+    "title": "The Mandalorian",
+    "Description": "A lone bounty hunter navigates the galaxy",
+    "poster_url": "https://picsum.photos/id/246/200/300",
+    "type": "show"
+  },
+  {
+    "id": 11,
+    "title": "The Matrix",
+    "Description": "A hacker discovers a dystopian reality",
+    "poster_url": "https://picsum.photos/id/247/200/300",
+    "type": "movie"
+  },
+  {
+    "id": 12,
+    "title": "The Witcher",
+    "Description": "A monster hunter struggles to find his place",
+    "poster_url": "https://picsum.photos/id/248/200/300",
+    "type": "show"
+  },
+  {
+    "id": 13,
+    "title": "Pulp Fiction",
+    "Description": "Stories of crime and redemption interweave",
+    "poster_url": "https://picsum.photos/id/249/200/300",
+    "type": "movie"
+  },
+  {
+    "id": 14,
+    "title": "Westworld",
+    "Description": "An amusement park where robots run wild",
+    "poster_url": "https://picsum.photos/id/250/200/300",
+    "type": "show"
+  },
+  {
+    "id": 15,
+    "title": "The Shawshank Redemption",
+    "Description": "A banker escapes a wrongful life sentence",
+    "poster_url": "https://picsum.photos/id/251/200/300",
+    "type": "movie"
+  },
+  {
+    "id": 16,
+    "title": "The Office",
+    "Description": "A mockumentary-style look at office life",
+    "poster_url": "https://picsum.photos/id/252/200/300",
+    "type": "show"
+  },
+  {
+    "id": 17,
+    "title": "Fight Club",
+    "Description": "An underground fight club with a dark twist",
+    "poster_url": "https://picsum.photos/id/253/200/300",
+    "type": "movie"
+  },
+  {
+    "id": 18,
+    "title": "Sherlock",
+    "Description": "A modern take on the classic detective",
+    "poster_url": "https://picsum.photos/id/254/200/300",
+    "type": "show"
+  },
+  {
+    "id": 19,
+    "title": "The Godfather",
+    "Description": "A powerful family’s rise and fall",
+    "poster_url": "https://picsum.photos/id/255/200/300",
+    "type": "movie"
+  },
+  {
+    "id": 20,
+    "title": "House of Cards",
+    "Description": "A ruthless politician ascends to power",
+    "poster_url": "https://picsum.photos/id/256/200/300",
+    "type": "show"
+  },
+  {
+    "id": 21,
+    "title": "The Silence of the Lambs",
+    "Description": "A serial killer and a detective cross paths",
+    "poster_url": "https://picsum.photos/id/257/200/300",
+    "type": "movie"
+  },
+  {
+    "id": 22,
+    "title": "Better Call Saul",
+    "Description": "The origin story of a notorious lawyer",
+    "poster_url": "https://picsum.photos/id/258/200/300",
+    "type": "show"
+  },
+  {
+    "id": 23,
+    "title": "The Lord of the Rings",
+    "Description": "A journey to destroy a powerful ring",
+    "poster_url": "https://picsum.photos/id/259/200/300",
+    "type": "movie"
+  },
+  {
+    "id": 24,
+    "title": "The Boys",
+    "Description": "A dark take on superheroes in society",
+    "poster_url": "https://picsum.photos/id/260/200/300",
+    "type": "show"
+  },
+  {
+    "id": 25,
+    "title": "Goodfellas",
+    "Description": "A true story of life in the mob",
+    "poster_url": "https://picsum.photos/id/261/200/300",
+    "type": "movie"
+  }
+]
